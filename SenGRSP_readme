@@ -1,0 +1,11 @@
+SenGRSP is a MATLAB-based graphical user interface (GUI) designed for the
+inversion of gravity and self-potential (SP) datasets using a variety of iterative methods.
+
+SenGRSP runs in MATLAB R2013a and upper versions.
+
+Please read SenGRSP_userguide.pdf for using it.
+
+Manuscript: SenGRSP: A Matlab-based GUI for Gravity and Self-Potential Data Inversion Using Various Iteration Methods
+Şenol Özyalın, Petek Sındırgı, Khalid S Essa, Coşkun Sarı
+Mailing address:Dokuz Eylul University, Engineering Faculty, Department of Geophysical Engineering, Central Campus 35390 Buca/İZMİR, Türkiye 
+e-mail:senol.ozyalin@deu.edu.tr
