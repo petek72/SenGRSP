@@ -1,6 +1,0 @@
-Shape_factor_(q)  :    1.00 
-Amplitude_(K)     : -1199.98 
-Depth_(z)         :    8.00 
-Dip_Angle(Theta)  :   35.00 
-Best_x0(m)        :   55.00 
-Best_RMS          : 2.762655e-03 
